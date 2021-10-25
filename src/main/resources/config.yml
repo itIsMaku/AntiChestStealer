@@ -1,0 +1,4 @@
+detection-commands:
+  - "kick {player} &fChestStealer detection &8- &cAntiChestStealer {version}"
+detection-broadcast:
+  - "&8[&cAntiCheat&8] &7Player &c{player} &7was kicked for &cChestStealer detection&7 by &cAntiChestStealer {version}&7."
