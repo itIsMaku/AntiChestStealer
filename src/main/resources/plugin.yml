@@ -1,0 +1,4 @@
+name: AntiChestStealer
+version: '${version}'
+main: cz.maku.anticheststealer.AntiChestStealer
+authors: [ itIsMaku ]
